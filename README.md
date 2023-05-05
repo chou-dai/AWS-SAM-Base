@@ -1,4 +1,4 @@
-# AWS SAM (Serverless Application Model) Base
+# AWS SAM Base
 
 ## 概要
 - AWS SAM (Serverless Application Model) を使用した、APIGateway と Lambda によるサーバーレスな REST API を構築するためのベースプロジェクト
