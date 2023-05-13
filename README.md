@@ -36,7 +36,7 @@ pip install pipenv
 ```
 #### ライブラリのインストール
 ```
-pipenv run install --dev
+pipenv install --dev
 ```
 
 ---
